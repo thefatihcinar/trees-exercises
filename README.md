@@ -1,4 +1,4 @@
-# trees-exercises
+# A Huge Collection of Exercises and Problems About TREES
 Solutions to the Problems and Exercises Involving All Types of Tress || GeeksforGeeks, LeetCode, etc.
 
 ## Binary Trees
