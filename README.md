@@ -24,4 +24,4 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 
 
 
-<img src="https://i.pinimg.com/originals/4c/db/26/4cdb26d6dd9f9f9bddf71167f0d45b9f.png" width="450" height="470">
+<img src="https://i.pinimg.com/originals/4c/db/26/4cdb26d6dd9f9f9bddf71167f0d45b9f.png" width="400" height="415">
