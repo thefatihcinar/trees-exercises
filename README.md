@@ -13,7 +13,7 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 
 
 ## Binary Search Trees
-<img src = "https://github.com/fatihcinar1/trees-exercises/blob/master/image_bst.png?raw=true" width="520" height="600">
+<img src="https://github.com/fatihcinar1/trees-exercises/blob/master/image_bst2.png?raw=true">
 
 |  Problem     |  Language     |    Category      |  Source    | 
 | :------------------------------------------------: | :---: |  :---:  | :---:  |
@@ -30,4 +30,7 @@ DEPO
 <img src = "https://i.udemycdn.com/course/750x422/2018184_5e45_2.jpg" width="675" height="380" >
 
 <img src = "https://i.pinimg.com/originals/66/40/22/6640222bbc863a7e76e59e2a38278bf3.jpg" >
+
+<img src = "https://github.com/fatihcinar1/trees-exercises/blob/master/image_bst.png?raw=true" width="520" height="600">
+
 -->
