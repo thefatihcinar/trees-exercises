@@ -1,6 +1,16 @@
 # trees-exercises
 Solutions to the Problems and Exercises Involving All Types of Tress || GeeksforGeeks, LeetCode, etc.
 
+## Binary Trees
+<img src = "https://i.udemycdn.com/course/750x422/2018184_5e45_2.jpg" >
+
+|  Problem     |  Language     |    Category      |  Source    | 
+| :------------------------------------------------: | :---: |  :---:  | :---:  |
+| Linked List Exercise 1  and Exercise 2 and Exercise 3  | [C](https://github.com/)     | `Binary Search Tree`  |  |
+
+
+<br /><br /><br /><br /><br /><br />
+
 
 
 ## Binary Search Trees
@@ -12,3 +22,6 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 
 
 <br /><br /><br /><br /><br /><br />
+
+
+
