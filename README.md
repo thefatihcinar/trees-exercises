@@ -9,8 +9,7 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 | Linked List Exercise 1  and Exercise 2 and Exercise 3  | [C](https://github.com/)     | `Binary Tree`  |  |
 
 
-<br /><br /><br /><br /><br /><br />
-
+<br /><br /><br /><br />
 
 
 ## Binary Search Trees
