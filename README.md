@@ -2,7 +2,7 @@
 Solutions to the Problems and Exercises Involving All Types of Tress || GeeksforGeeks, LeetCode, etc.
 
 ## Binary Trees
-<img src = "https://i.udemycdn.com/course/750x422/2018184_5e45_2.jpg" width="675" height="380" >
+<img src="https://i.pinimg.com/originals/4c/db/26/4cdb26d6dd9f9f9bddf71167f0d45b9f.png" width="400" height="415">
 
 |  Problem     |  Language     |    Category      |  Source    | 
 | :------------------------------------------------: | :---: |  :---:  | :---:  |
@@ -24,4 +24,5 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 
 
 
-<img src="https://i.pinimg.com/originals/4c/db/26/4cdb26d6dd9f9f9bddf71167f0d45b9f.png" width="400" height="415">
+
+<img src = "https://i.udemycdn.com/course/750x422/2018184_5e45_2.jpg" width="675" height="380" >
