@@ -14,6 +14,7 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 
 ## Binary Search Trees
 <img src = "https://i.pinimg.com/originals/66/40/22/6640222bbc863a7e76e59e2a38278bf3.jpg" >
+<img src = "https://images.fineartamerica.com/images-medium-large-5/digital-tree-circuits-concept-oleksiy-maksymenko.jpg" width="520" height="630">
 
 |  Problem     |  Language     |    Category      |  Source    | 
 | :------------------------------------------------: | :---: |  :---:  | :---:  |
@@ -25,4 +26,9 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 
 
 
+<!-- 
+DEPO
 <img src = "https://i.udemycdn.com/course/750x422/2018184_5e45_2.jpg" width="675" height="380" >
+
+
+-->
