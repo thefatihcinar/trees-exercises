@@ -13,7 +13,7 @@ Solutions to the Problems and Exercises Involving All Types of Tress || Geeksfor
 
 
 ## Binary Search Trees
-<img src = "https://github.com/fatihcinar1/trees-exercises/blob/master/image_bst.png?raw=true" width="520" height="630">
+<img src = "https://github.com/fatihcinar1/trees-exercises/blob/master/image_bst.png?raw=true" width="520" height="600">
 
 |  Problem     |  Language     |    Category      |  Source    | 
 | :------------------------------------------------: | :---: |  :---:  | :---:  |
